@@ -2,8 +2,6 @@
 name: dbs-content-value
 description: |
   评估内容开头、受众、流量反应与商业价值，给出优先修改方向。适用于发布前评估、低流量诊断和内容方向比较；无需先提供商业目标。
-metadata:
-  internal: true
 ---
 
 # dbs-content-value：内容流量与商业价值诊断
@@ -333,12 +331,9 @@ metadata:
 ## 与相邻 Skill 的边界
 
 - `dbs-theory-grounding`：判断观点、理论、因果或经验结论是否成立；本 Skill 不承担这项任务。
-- `dbs-beta-relevance2`：从素材中系统扩展多组人群连接；本 Skill 同时判断观看回报、传播行为和商业价值。
+- `dbs-spread`：用传播学与社会心理学分析共鸣机制、受众情绪和传播动机；本 Skill 侧重受众范围、观看行为与商业价值。
 - `dbs-resonate`：用传播学和社会心理学诊断文稿共鸣机制；本 Skill 更关注整体受众范围、观看回报与结果分层。
 - `dbs-content`：在选题确定后设计内容表达；本 Skill 先判断内容可能引发哪些受众反应。
-- `dbs-beta-agenda-fit`：判断内容是否适合进入账号长期议程；本 Skill 只分析当前内容的流量与商业价值。
-
-完成当前任务后直接结束。只有用户明确询问下一步，且当前环境已经安装 `/dbs` 时，简短提示：「下一步不确定时，可以输入 `/dbs`。」
 
 ## 停止条件
 

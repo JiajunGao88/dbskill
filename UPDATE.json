@@ -1,5 +1,5 @@
 {
-  "version": "2.18.43",
-  "notice": "新增内容流量与商业价值诊断，帮助创作者判断开头、受众和优先修改方向",
+  "version": "2.18.44",
+  "notice": "公开版清理内部标记和本地 Skill 引用，统一导航提示",
   "details_url": "https://github.com/dontbesilent2025/dbskill/commits/main"
 }
