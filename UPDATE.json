@@ -1,5 +1,5 @@
 {
-  "version": "2.18.42",
-  "notice": "现在可联网读取新编号；以后新增隐藏款无需再次更新 dbskill",
+  "version": "2.18.43",
+  "notice": "新增内容流量与商业价值诊断，帮助创作者判断开头、受众和优先修改方向",
   "details_url": "https://github.com/dontbesilent2025/dbskill/commits/main"
 }
